@@ -8,4 +8,5 @@ Geocodificação Reversa: Utiliza a API do Google Maps para converter coordenada
 Exportação de Resultados: Salva os dados resultantes, incluindo endereços e informações adicionais, em um novo arquivo Excel.
 ## Pré-requisitos
 Python 3.x
+KeyApi google
 Bibliotecas: pandas, googlemaps, openpyxl
